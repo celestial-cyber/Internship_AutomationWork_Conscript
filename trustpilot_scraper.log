@@ -1,0 +1,27 @@
+2026-07-15 01:35:06,814 | INFO | ============================================================
+2026-07-15 01:35:06,815 | INFO | Trustpilot Scraper Started
+2026-07-15 01:35:06,815 | INFO | ============================================================
+2026-07-15 01:35:06,816 | INFO | Started : 2026-07-15 01:35:06.816349
+2026-07-15 01:35:06,816 | INFO | Creating HTTP Session...
+2026-07-15 01:35:06,817 | INFO | Loading previous Excel...
+2026-07-15 01:35:06,817 | INFO | Existing companies : 0
+2026-07-15 01:35:06,838 | INFO | Resuming from page 1
+2026-07-15 01:35:08,679 | INFO | 
+Scraping Listing Page 1
+2026-07-15 01:35:17,807 | WARNING | Unable to fetch page 1
+2026-07-15 01:35:17,807 | INFO | No companies on page 1
+2026-07-15 01:35:20,722 | INFO | 
+Scraping Listing Page 2
+2026-07-15 01:35:28,651 | WARNING | Unable to fetch page 2
+2026-07-15 01:35:28,652 | INFO | No companies on page 2
+2026-07-15 01:35:30,506 | INFO | 
+Scraping Listing Page 3
+2026-07-15 01:35:38,623 | WARNING | Unable to fetch page 3
+2026-07-15 01:35:38,624 | INFO | No companies on page 3
+2026-07-15 01:35:38,624 | INFO | Reached end of listing pages.
+2026-07-15 01:35:38,625 | INFO | 
+Listing Completed.
+2026-07-15 01:35:38,625 | INFO | Total Companies : 0
+2026-07-15 01:35:38,625 | INFO | 
+Starting Detail Scraping...
+
